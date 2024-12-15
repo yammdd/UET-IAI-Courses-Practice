@@ -1,0 +1,7 @@
+pwd
+cd ./testdir
+pwd
+cd ..
+pwd
+/usr/bin/wc shell.c
+wc shell.c
